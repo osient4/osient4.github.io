@@ -1,0 +1,64 @@
+- title: Kamer van Koophandel (KVK)
+  description: Het officiële handelsregister in Nederland.
+  url: https://kvk.nl
+  target: _blank
+  type: website
+  region: nl
+
+- title: KVK-dienst bedrijven per straat
+  description: Een KVK-dienst om alle bedrijven per straat op te zoeken. Ook reeds opgeheven ondernemingen.
+  url: https://diensten.kvk.nl/wwwsrvu/html/straatnaam.html
+  target: _blank
+  type: website
+  region: nl
+
+- title: Handelsregister
+  description: Het officiële handelsregister in Duitsland.
+  url: https://www.handelsregister.de/rp_web/normalesuche.xhtml
+  target: _blank
+  type: website
+  region: de
+
+- title: Kruispuntbank van Ondernemingen (KBO)
+  description: Het officiële handelsregister in België.
+  url: https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=nl
+  target: _blank
+  type: website
+  region: be
+
+- title: KVK Handelsregisters buiten Europa
+  description: Een lijst met handelsregisters buiten Europa
+  url: https://www.kvk.nl/over-kvk/over-het-handelsregister/buitenlandse-registers/registers-buiten-europa/
+  target: _blank
+  type: website
+  region: internationaal
+
+- title: Bedrijvenmonitor
+  description: Een database met verzamelde en verrijkte informatie over ondernemingen in Nederland.
+  url: https://bedrijvenmonitor.info/
+  target: _blank
+  type: website
+  region: nl
+
+- title: Open Corporates
+  description: Een database met verzamelde gegevens over ondernemingen wereldwijd. Bevat filters, onder andere per land.
+  url: https://opencorporates.com
+  target: _blank
+  type: website
+  region: wereld
+
+- title: Infobel
+  description: Een database met contactgegevens van bedrijven (en personen) wereldwijd. Per land op te zoeken.
+  url: https://www.infobel.com/nl/world
+  target: _blank
+  type: website
+  region: wereld
+
+- title: Telefoonboek
+  description: Een database met verrijkte contactgegevens van bedrijven in Nederland.
+  url: https://www.telefoonboek.nl/
+  target: _blank
+  type: website
+  region: nl
+
+
