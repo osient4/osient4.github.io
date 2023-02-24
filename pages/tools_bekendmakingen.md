@@ -1,9 +1,9 @@
 ---
-title: "Staatscourant"
+title: "Bekendmakingen"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: staatscourant.html
+permalink: bekendmakingen.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.juridisch_staatscourant %}
+{% for item in site.data.tools.juridisch_bekendmakingen %}
 	<tr>
 		<td>
 			{{ item.type }}

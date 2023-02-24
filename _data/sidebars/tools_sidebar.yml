@@ -57,7 +57,7 @@ entries:
       output: web, pdf
       type: homepage
 
-    - title: Staatscourant
-      url: /staatscourant.html
+    - title: Bekendmakingen
+      url: /bekendmakingen.html
       output: web, pdf
       type: homepage
