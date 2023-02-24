@@ -5,19 +5,6 @@ entries:
   product: OSINT Tools
   folders:
 
-  - title:
-    output: pdf
-    type: frontmatter
-    folderitems:
-    - title:
-      url: /titlepage.html
-      output: pdf
-      type: frontmatter
-    - title:
-      url: /tocpage.html
-      output: pdf
-      type: frontmatter
-
   - title: Bedrijf
     output: web, pdf
     folderitems:
@@ -59,7 +46,18 @@ entries:
 
   - title: Reverse search
     output: web, pdf
+    folderitems:
 
-  - title: Rechtspraak
+  - title: Juridisch
     output: web, pdf
     folderitems:
+    
+    - title: Rechtspraak
+      url: /rechtspraak.html
+      output: web, pdf
+      type: homepage
+
+    - title: Staatscourant
+      url: /staatscourant.html
+      output: web, pdf
+      type: homepage
