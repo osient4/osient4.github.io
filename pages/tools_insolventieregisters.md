@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.bedrijven_insolventieregisters %}
+{% for item in site.data.tools.bedrijven_insolventies %}
 	<tr>
 		<td>
 			{{ item.type }}

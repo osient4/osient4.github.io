@@ -47,42 +47,42 @@
   type: website
   region: Buiten EU
 
-- titel: Companies House
+- title: Companies House
   description: Handelsregister UK
   url: https://wck2.companieshouse.gov.uk//wcframe?name=accessCompanyInfo
   target: _blank
   type: website
   region: Verenigd Koninkrijk
 
-- titel: EDGAR | Company Filings
+- title: EDGAR | Company Filings
   description: Geregistreerde bedrijven in de VS (overheid)
   url: https://www.sec.gov/edgar/searchedgar/companysearch
   target: _blank
   type: website
   region: Verenigde Staten
 
-- titel: Ticaretsicil
+- title: Ticaretsicil
   description: Handelsregister Turkije
   url: https://mersis.gtb.gov.tr/
   target: _blank
   type: website
   region: Turkije
 
-- titel: Mersis
+- title: Mersis
   description: Handelsregister Turkije
   url:  https://mersis.gtb.gov.tr/
   target: _blank
   type: website
   region: Turkije
 
-- titel:
+- title: Direct Info
   description: Handelsregister Marokko
   url: https://www.directinfo.ma
   target: _blank
   type: website
   region: Marokko
 
-- titel: Nalog
+- title: Nalog
   description: Handelsregister Rusland
   url:  https://www.nalog.ru/rn77/
   target: _blank
