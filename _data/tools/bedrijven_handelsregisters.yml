@@ -1,0 +1,93 @@
+- title: Kamer van Koophandel (KVK)
+  description: Het officiële handelsregister in Nederland.
+  url: https://kvk.nl
+  target: _blank
+  type: website
+  region: Nederland
+
+- title: KVK-dienst bedrijven per straat
+  description: Een KVK-dienst om alle bedrijven per straat op te zoeken. Ook reeds opgeheven ondernemingen.
+  url: https://diensten.kvk.nl/wwwsrvu/html/straatnaam.html
+  target: _blank
+  type: website
+  region: Nederland
+
+- title: Kruispuntbank van Ondernemingen (KBO)
+  description: Het officiële handelsregister in België.
+  url: https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=nl
+  target: _blank
+  type: website
+  region: België
+
+- title: Handelsregister Duitsland
+  description: Handelsregister in Duitsland.
+  url: https://www.handelsregister.de/rp_web/normalesuche.xhtml
+  target: _blank
+  type: website
+  region: Duitsland
+
+- title: Unternehmensregister
+  description: Handelsregister in Duitsland.
+  url: https://www.unternehmensregister.de/ureg/
+  target: _blank
+  type: website
+  region: Duitsland
+
+- title: Registre de Commerce et des Société
+  description: Handelsregister Luxemburg
+  url: https://www.lbr.lu/mjrcs/jsp/Index
+  target: _blank
+  type: website
+  region: Luxemburg
+
+- title: KVK Handelsregisters buiten Europa
+  description: Een lijst met handelsregisters buiten Europa
+  url: https://www.kvk.nl/over-kvk/over-het-handelsregister/buitenlandse-registers/registers-buiten-europa/
+  target: _blank
+  type: website
+  region: Buiten EU
+
+- titel: Companies House
+  description: Handelsregister UK
+  url: https://wck2.companieshouse.gov.uk//wcframe?name=accessCompanyInfo
+  target: _blank
+  type: website
+  region: Verenigd Koninkrijk
+
+- titel: EDGAR | Company Filings
+  description: Geregistreerde bedrijven in de VS (overheid)
+  url: https://www.sec.gov/edgar/searchedgar/companysearch
+  target: _blank
+  type: website
+  region: Verenigde Staten
+
+- titel: Ticaretsicil
+  description: Handelsregister Turkije
+  url: https://mersis.gtb.gov.tr/
+  target: _blank
+  type: website
+  region: Turkije
+
+- titel: Mersis
+  description: Handelsregister Turkije
+  url:  https://mersis.gtb.gov.tr/
+  target: _blank
+  type: website
+  region: Turkije
+
+- titel:
+  description: Handelsregister Marokko
+  url: https://www.directinfo.ma
+  target: _blank
+  type: website
+  region: Marokko
+
+- titel: Nalog
+  description: Handelsregister Rusland
+  url:  https://www.nalog.ru/rn77/
+  target: _blank
+  type: website
+  region: Rusland
+
+
+

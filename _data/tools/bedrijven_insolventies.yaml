@@ -1,0 +1,35 @@
+- title: Kruispuntbank van Ondernemingen (KBO)
+  description: Insolventieregister België.
+  url: https://kbopub.economie.fgov.be
+  target: _blank
+  type: website
+  region: België
+
+- title: Handelsregister insolventies
+  description: Insolventieregister België.
+  url: https://www.unternehmensregister.de/ureg/
+  target: _blank
+  type: website
+  region: Duitsland
+
+- title: Insolventies Luxemburg
+  description: Insolventieregister Luxemburg
+  url: https://www.barreau.lu/faillites
+  target: _blank
+  type: website
+  region: Luxemburg
+
+- title: Company Information Service
+  description: Insolventieregister Verenigd Koninkrijk
+  url: https://find-and-update.company-information.service.gov.uk/dissolved-search
+  target: _blank
+  type: website
+  region: Verenigd Koninkrijk
+
+- title: Bankrot
+  description: Insolventieregister Rusland
+  url: https://bankrot.fedresurs.ru/
+  target: _blank
+  type: website
+  region: Verenigd Koninkrijk
+

@@ -1,0 +1,27 @@
+- title: Bedrijvenmonitor
+  description: Een database met verzamelde en verrijkte informatie over ondernemingen in Nederland.
+  url: https://bedrijvenmonitor.info/
+  target: _blank
+  type: website
+  region: Nederland
+
+- title: Telefoonboek
+  description: Een database met verrijkte contactgegevens van bedrijven in Nederland.
+  url: https://www.telefoonboek.nl/
+  target: _blank
+  type: website
+  region: Nederland
+
+- title: Open Corporates
+  description: Een database met verzamelde gegevens over ondernemingen wereldwijd. Bevat filters, onder andere per land.
+  url: https://opencorporates.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Infobel
+  description: Een database met contactgegevens van bedrijven (en personen) wereldwijd. Per land op te zoeken.
+  url: https://www.infobel.com/nl/world
+  target: _blank
+  type: website
+  region: Wereld

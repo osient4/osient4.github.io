@@ -26,9 +26,14 @@ entries:
       url: /handelsregisters.html
       output: web, pdf
       type: homepage
-      
-    - title: Handelsregisters
-      url: /handelsregisters.html
+
+    - title: Verrijkte bedrijfsgegevens
+      url: /verrijkte-bedrijfsgegevens.html
+      output: web, pdf
+      type: homepage
+
+    - title: Insolventieregisters
+      url: /insolventieregisters.html
       output: web, pdf
       type: homepage
 

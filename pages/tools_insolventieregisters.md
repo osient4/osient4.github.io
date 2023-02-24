@@ -1,9 +1,9 @@
 ---
-title: "Handelsregisters"
+title: "Insolventieregisters"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: handelsregisters.html
+permalink: insolventieregisters.html
 datatable: true
 ---
 
@@ -16,21 +16,21 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for handelsregister in site.data.tools.bedrijven_handelsregisters %}
+{% for item in site.data.tools.bedrijven_insolventieregisters %}
 	<tr>
 		<td>
-			{{ handelsregister.type }}
+			{{ item.type }}
 		</td>
 		<td>
-			{{ handelsregister.region }}
+			{{ item.region }}
 		</td>
 		<td>
-			<a href="{{ handelsregister.url }}" target="{{ handelsregister.target }}">
-				{{ handelsregister.title }}
+			<a href="{{ item.url }}" target="{{ item.target }}">
+				{{ item.title }}
 			</a>
 		</td>
 		<td>
-			{{ handelsregister.description }}
+			{{ item.description }}
 		</td>
 	</tr>
 {% endfor %}
