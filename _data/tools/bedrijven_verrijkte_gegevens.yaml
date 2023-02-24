@@ -1,3 +1,10 @@
+- title: Drimble
+  description: Verrijkte open informatie over alle bedrijven in Nederland
+  url: https://drimble.nl/zakelijk/
+  target: _blank
+  type: website
+  region: Nederland
+
 - title: Bedrijvenmonitor
   description: Een database met verzamelde en verrijkte informatie over ondernemingen in Nederland.
   url: https://bedrijvenmonitor.info/
