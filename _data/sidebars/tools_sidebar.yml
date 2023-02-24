@@ -43,7 +43,6 @@ entries:
 
   - title: Locatie
     output: web, pdf
-
     folderitems:
 
   - title: Server
@@ -52,18 +51,15 @@ entries:
 
   - title: Sociale Media
     output: web, pdf
-
     folderitems:
 
   - title: De media
     output: web, pdf
-
     folderitems:
 
   - title: Reverse search
     output: web, pdf
 
+  - title: Rechtspraak
+    output: web, pdf
     folderitems:
-
-
-# Copyright 2021 Google LLC
