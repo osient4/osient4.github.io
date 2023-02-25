@@ -1,9 +1,9 @@
 ---
-title: "Rechtspraak"
+title: "Datalek - Databanken"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: rechtspraak.html
+permalink: datalek-databanken.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.juridisch_rechtspraak %}
+{% for item in site.data.tools.datalek_databanken %}
 	<tr>
 		<td>
 			{{ item.type }}

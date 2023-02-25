@@ -10,54 +10,62 @@ entries:
     folderitems:
 
     - title: Handelsregisters
-      url: /handelsregisters.html
+      url: /bedrijf-handelsregisters.html
       output: web, pdf
       type: homepage
 
     - title: Insolventieregisters
-      url: /insolventieregisters.html
+      url: /bedrijf-insolventieregisters.html
       output: web, pdf
       type: homepage
 
-    - title: Verrijkte bedrijfsgegevens
-      url: /verrijkte-bedrijfsgegevens.html
+    - title: Verrijkte gegevens
+      url: /bedrijf-verrijkte-gegevens.html
       output: web, pdf
       type: homepage
 
-  - title: Persoon
+  - title: Datalek
     output: web, pdf
     folderitems:
 
-  - title: Locatie
-    output: web, pdf
-    folderitems:
-
-  - title: Server
-    output: web, pdf
-    folderitems:
-
-  - title: Sociale Media
-    output: web, pdf
-    folderitems:
-
-  - title: De media
-    output: web, pdf
-    folderitems:
-
-  - title: Reverse search
-    output: web, pdf
-    folderitems:
+    - title: Databanken
+      url: /datalek-databanken.html
+      output: web, pdf
+      type: homepage
 
   - title: Juridisch
     output: web, pdf
     folderitems:
     
     - title: Rechtspraak
-      url: /rechtspraak.html
+      url: /juridisch-rechtspraak.html
       output: web, pdf
       type: homepage
 
     - title: Bekendmakingen
-      url: /bekendmakingen.html
+      url: /juridisch-bekendmakingen.html
+      output: web, pdf
+      type: homepage
+
+  - title: Vastgoed
+    output: web, pdf
+    folderitems:
+
+    - title: Kadaster
+      url: /vastgoed-kadaster.html
+      output: web, pdf
+      type: homepage
+
+    - title: Verkoop
+      url: /vastgoed-verkoop.html
+      output: web, pdf
+      type: homepage
+
+  - title: Website
+    output: web, pdf
+    folderitems:
+
+    - title: Indirect bezoeken
+      url: /website-indirect-bezoeken.html
       output: web, pdf
       type: homepage

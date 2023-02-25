@@ -1,9 +1,9 @@
 ---
-title: "Insolventieregisters"
+title: "Vastgoed - Kadaster"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: insolventieregisters.html
+permalink: vastgoed-kadaster.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.bedrijven_insolventies %}
+{% for item in site.data.tools.vastgoed_kadaster %}
 	<tr>
 		<td>
 			{{ item.type }}

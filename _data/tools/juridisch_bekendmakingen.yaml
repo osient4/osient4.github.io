@@ -18,3 +18,10 @@
   target: _blank
   type: website
   region: Nederland, Limburg, Roermond
+
+- title: Bodemloket en Ruimtelijke plannen 
+  description: Bestemmingsplannen, structuurvisies en algemene regels die gemaakt zijn door gemeentes, provincies en het Rijk.
+  url: https://www.ruimtelijkeplannen.nl/
+  target: _blank
+  type: website
+  region: Nederland

@@ -1,9 +1,9 @@
 ---
-title: "Bekendmakingen"
+title: "Bedrijf - Handelsregisters"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: bekendmakingen.html
+permalink: bedrijf-handelsregisters.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.juridisch_bekendmakingen %}
+{% for item in site.data.tools.bedrijf_handelsregisters %}
 	<tr>
 		<td>
 			{{ item.type }}

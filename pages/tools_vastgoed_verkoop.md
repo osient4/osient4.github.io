@@ -1,9 +1,9 @@
 ---
-title: "Handelsregisters"
+title: "Verkoop grond en panden"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: handelsregisters.html
+permalink: vastgoed-verkoop.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.bedrijven_handelsregisters %}
+{% for item in site.data.tools.vastgoed-verkoop %}
 	<tr>
 		<td>
 			{{ item.type }}

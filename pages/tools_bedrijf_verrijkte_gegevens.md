@@ -1,9 +1,9 @@
 ---
-title: "Verrijkte bedrijfsgegevens"
+title: "Bedrijf - Verrijkte gegevens"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: verrijkte-bedrijfsgegevens.html
+permalink: bedrijf-verrijkte-gegevens.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.bedrijven_verrijkte_gegevens %}
+{% for item in site.data.tools.bedrijf_verrijkte_gegevens %}
 	<tr>
 		<td>
 			{{ item.type }}

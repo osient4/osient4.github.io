@@ -1,0 +1,6 @@
+- title: Urlscan.io
+  description: Scant een website zonder deze zelf te bezoeken. Met opties als vanuit specifiek land, in te stellen referer en met bepaalde user agent.
+  url: https://urlscan.io/
+  target: _blank
+  type: website
+  region: Wereld
