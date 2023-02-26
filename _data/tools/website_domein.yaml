@@ -1,3 +1,10 @@
+- title: My IP
+  description: Hosting info, Websites en IP Database
+  url: https://myip.ms/
+  target: _blank
+  type: Website 
+  region: Wereld
+
 - title: Spy On Website 
   desciption: Gerelateerde website vinden aan de hand van url, ip pub-* of UA-*.
   url: https://spyonweb.com/
