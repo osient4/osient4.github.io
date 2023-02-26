@@ -24,6 +24,15 @@ entries:
       output: web, pdf
       type: homepage
 
+  - title: Auto
+    output: web, pdf
+    folderitems:
+
+      title: Kenteken
+      url: /auto-kenteken.html
+      output: web, pdf
+      type: homepage
+
   - title: Datalek
     output: web, pdf
     folderitems:
