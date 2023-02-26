@@ -3,7 +3,7 @@ title: "Auto - Kenteken"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: auto-kenteken.html
+permalink: auto-kentekencheck.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.auto_kenteken %}
+{% for item in site.data.tools.auto_kentekencheck %}
 	<tr>
 		<td>
 			{{ item.type }}

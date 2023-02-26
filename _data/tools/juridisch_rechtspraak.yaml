@@ -1,6 +1,34 @@
+- title: de Rechtspraak - Uitspraken
+  description: Een deel van alle rechterlijke uitspraken, geanonimiseerd.
+  url: https://uitspraken.rechtspraak.nl 
+  target: _blank
+  type: website
+  region: Nederland
+
+- title: Hof van Justitie van de Europese Unie
+  description: Rechterlijke uitspraken van het Europese Hof van Justitie (scroll naar beneden)
+  url: https://curia.europa.eu/jcms/jcms/j_6/nl/
+  target: _blank
+  type: website
+  region: Europa
+
+- title: European Court of Human Rights
+  description: Rechterlijke uitspraken van het Europese Hof van de Rechten van de Mens (scroll naar beneden)
+  url: https://hudoc.echr.coe.int/
+  target: _blank
+  type: website
+  region: Europa
+
 - title: Rechtspraak Hong Kong
   description: Rechterlijke uitspraken in Hong Kong
   url: http://legalref.judiciary.hk/lrs/common/ju/judgment.jsp
   target: _blank
   type: website
   region: Hong Kong
+
+- title: Publicatieplatform UitvoeringsContent (PUC)
+  description: Alle uitvoeringsinformatie van de Nederlandse Overheid bij elkaar.
+  url: https://puc.overheid.nl
+  target: _blank
+  type: website
+  region: Nederland

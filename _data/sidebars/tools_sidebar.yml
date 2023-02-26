@@ -28,10 +28,15 @@ entries:
     output: web, pdf
     folderitems:
 
-      title: Kenteken
-      url: /auto-kenteken.html
-      output: web, pdf
-      type: homepage
+      - title: Kenteken
+        url: /auto-kentekencheck.html
+        output: web, pdf
+        type: homepage
+
+      - title: Verkoop
+        url: /auto-verkoop.html
+        output: web, pdf
+        type: homepage
 
   - title: Datalek
     output: web, pdf

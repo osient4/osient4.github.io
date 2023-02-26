@@ -1,6 +1,27 @@
+- title: RDW Kentekencheck
+  description: Geeft meteen weer indien kenteken niet bekend. En verklaart of tellerstanden elkaar logisch opvolgen.
+  url: https://ovi.rdw.nl
+  target: _blank
+  type: website
+  region: Nederland
+
 - title: Kenteken check
-  description: Geeft uitgebreide informatie over de auto. Met schadehistorie, keuringcontrole, APK-resultaten, gestolencontrole en vermeldingen online (ook foto's), zoals op marktplaats. 
+  description: Geeft uitgebreide gratis informatie over de auto. Met schadehistorie, keuringcontrole, APK-resultaten, gestolencontrole en vermeldingen online (ook foto's), zoals op marktplaats. 
   url: https://kentekencheck.nl
   target: _blank
+  type: website
+  region: Nederland
+
+- title: Kentekencheck
+  description: Gratis basisinformatie over de auto.
+  url: https://kentekencheck.nu
+  target: _blank
+  type: website
+  region: Nederland
+
+- title: Finnik
+  description: Uitgebreide informatie inclusief export en (anoniem) eigenarenoverzicht (importeur, leasemij., particulier etc.)!
+  url: https://finnik.nl
+  target: website
   type: website
   region: Nederland
