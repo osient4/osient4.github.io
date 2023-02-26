@@ -1,9 +1,9 @@
 ---
-title: "Rechtspraak"
+title: "Website - Technologie"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: juridisch-rechtspraak.html
+permalink: website-technologie.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.juridisch.rechtspraak %}
+{% for item in site.data.tools.website_technologie %}
 	<tr>
 		<td>
 			{{ item.type }}

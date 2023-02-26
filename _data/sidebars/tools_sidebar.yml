@@ -65,7 +65,17 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Domein
+      url: /website-domein.html
+      output: web, pdf
+      type: homepage
+
     - title: Indirect bezoeken
       url: /website-indirect-bezoeken.html
+      output: web, pdf
+      type: homepage
+
+    - title: Gebruikte technologie
+      url: /website-technologie.html
       output: web, pdf
       type: homepage

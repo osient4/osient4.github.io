@@ -1,9 +1,9 @@
 ---
-title: "Juridisch - Bekendmakingen"
+title: "Website - Domein"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: juridisch-bekendmakingen.html
+permalink: website-domein.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.juridisch_bekendmakingen %}
+{% for item in site.data.tools.website_domein %}
 	<tr>
 		<td>
 			{{ item.type }}

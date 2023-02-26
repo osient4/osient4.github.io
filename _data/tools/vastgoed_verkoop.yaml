@@ -11,3 +11,11 @@
   target: _blank
   type: website
   region: Nederland
+
+- title: Immobilienscout
+  description: Vastgoed te koop en te huur in Duitsland
+  url: immobilienscout24.de
+  target: _blank
+  type: website
+  region: Duitsland
+  

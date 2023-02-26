@@ -1,3 +1,10 @@
+- title: Faillissementsdossier
+  description: Zoek faillissementsgegevens, zoals openbare verslagen en curatoren. Vindbaar op branche, insolventienummer, publicatienummer, (bedrijfs)naam of KvK-nr.
+  url: https://faillissementsdossier.nl
+  target: _blank
+  type: website
+  region: Nederland
+
 - title: Kruispuntbank van Ondernemingen (KBO)
   description: Insolventieregister België.
   url: https://kbopub.economie.fgov.be

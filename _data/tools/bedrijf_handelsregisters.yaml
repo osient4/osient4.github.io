@@ -12,6 +12,13 @@
   type: website
   region: Nederland
 
+- title: Open KvK
+  description: Alternatieve eenvoudige KVK-weergave via de Overheid.i API.
+  url: https://openkvk.nl
+  target: _blank
+  type: website
+  region: Nederland
+
 - title: Kruispuntbank van Ondernemingen (KBO)
   description: Het officiële handelsregister in België.
   url: https://kbopub.economie.fgov.be/kbopub/zoeknummerform.html?lang=nl

@@ -1,9 +1,9 @@
 ---
-title: "Juridisch - Bekendmakingen"
+title: "Juridisch - Rechtspraak"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar
-permalink: juridisch-bekendmakingen.html
+permalink: juridisch-rechtspraak.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.juridisch_bekendmakingen %}
+{% for item in site.data.tools.juridisch_rechtspraak %}
 	<tr>
 		<td>
 			{{ item.type }}

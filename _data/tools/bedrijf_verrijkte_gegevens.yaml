@@ -19,6 +19,69 @@
   type: website
   region: Nederland
 
+- title: Open The Box
+  description: Geeft bedrijfs en -netwerkinformatie. Goede grafische weergave van structuren. Zoeken op persoons- of bedrijfsnaam met typeahead.
+  url: https://openthebox.be/
+  target: _blank
+  type: website
+  region: België
+
+- title: Nationale Bank - Balanscentrale
+  description: Vrij doorzoekbare database met bedrijfsinformatie en financiële info in PDF-formaat.
+  url: https://consult.cbso.nbb.be/
+  target: _blank
+  type: website
+  region: België
+
+- title: Companyweb
+  description: Verrijkte bedrijfsgegevens uit KBO, Belgische Staatsblad en de Nationale Bank.
+  url: companyweb.be
+  target: _blank
+  type: website
+  region: België
+
+- title: FinCheck
+  description: Uitgebreide bedrijfsgegevens met grafisch weergegeven bedrijvennetwerk.
+  url: https://fincheck.be
+  target: _blank
+  type: website
+  region: België
+
+- title: Creditreform
+  description: Een database met verrijkte gegevens over bedrijven in Duitsland.
+  url: https://firmeneintrag.creditreform.de/
+  target: _blank
+  type: website
+  region: Duitsland
+
+  title: FirmenZentrale
+  description: Uitgebreide bedrijfsgegevens opzoeken met historie en bedrijven ingeschreven op dezelfde datum
+  url: https://firmenzentrale.de
+  target: _blank
+  type: website
+  region: Duitsland
+
+- title: Editus
+  description: Database met contactinformatie over personen en bedrijven in Luxemburg (en België).
+  url: https://firmeneintrag.creditreform.de/
+  target: _blank
+  type: website
+  region: Duitsland
+
+  title: CompanyHouse
+  description: Goed doorzoekbare en uitgebreide database met bedrijven in Duitsland. Gebruik het zoekveld rechtsboven in de site.
+  url: https://www.companyhouse.de/
+  target: _blank
+  type: website
+  region: Duitsland
+
+- title: Bizzy
+  description: AI-gedreven database met gegevens van bedrijven in Europa.
+  url: http://bizzy.org
+  target: _blank
+  type: website
+  region: Europa
+
 - title: Open Corporates
   description: Een database met verzamelde gegevens over ondernemingen wereldwijd. Bevat filters, onder andere per land.
   url: https://opencorporates.com
@@ -32,3 +95,19 @@
   target: _blank
   type: website
   region: Wereld
+
+- title: Dato Capital
+  description: Database met gegevens over bedrijven en bestuurders. Doorzoekbaar op bedrijfs- en persoonsnaam.
+  url: https://www.datocapital.nl/
+  target: _blank
+  type: website
+  region: Wereld
+- title: North Data 
+  description: Verrijkte bedrijfsgegevens inclusief financiële inzichten.
+  url: https://northdata.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Online Handelsregister
+  description: Laat meteen de wijzigingen in bedrijfsnaam zien in de zoekresultaten. Uitgebreide informatie, grafisch minder sterk.

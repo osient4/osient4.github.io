@@ -1,5 +1,5 @@
 ---
-title: "Verkoop grond en panden"
+title: "Vastgoed - Verkoop grond en panden"
 keywords: sample homepage
 tags: [getting_started]
 sidebar: tools_sidebar

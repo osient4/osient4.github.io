@@ -25,3 +25,12 @@
   target: _blank
   type: website
   region: Nederland
+
+- title: Staatsblad van België
+  description: Doorzoekbare database met vermeldingen in het Belgisch Staatsblad.
+  url: https://www.ejustice.just.fgov.be/cgi_tsv/tsv_rech.pl
+  target: _blank
+  type: website
+  region: België
+
+
