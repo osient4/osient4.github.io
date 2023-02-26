@@ -1,5 +1,5 @@
 - title: BTW Zoeken
-  description: Database met actieve BTW-nummers. Zoekbaar op naam, postcode, plaats. (fuzzy search)
+  description: Database met actieve BTW-nummers. Zoekbaar op naam, postcode, plaats. BTW-nr is geblurd, via inspectietool uit te lezen.
   url: https://btw-zoeken.nl
   target: _blank
   type: website
