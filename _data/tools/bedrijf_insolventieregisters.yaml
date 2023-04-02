@@ -1,3 +1,10 @@
+- title: Insolventieregister
+  description: Insolventieregister Nederland
+  url: https://www.rechtspraak.nl/Registers/Paginas/Insolventieregister.aspx
+  target: _blank
+  type: website
+  region: Nederland
+
 - title: Faillissementsdossier
   description: Zoek faillissementsgegevens, zoals openbare verslagen en curatoren. Vindbaar op branche, insolventienummer, publicatienummer, (bedrijfs)naam of KvK-nr.
   url: https://faillissementsdossier.nl

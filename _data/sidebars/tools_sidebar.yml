@@ -10,9 +10,9 @@ entries:
     folderitems:
 
     - title: Zoekmachines
-    url: /zoekmachines.html
-    output: web, pfd
-    type: homepage
+      url: /zoekmachines.html
+      output: web, pfd
+      type: homepage
 
   - title: Bedrijf
     output: web, pdf
@@ -86,6 +86,15 @@ entries:
 
     - title: Verkoop
       url: /vastgoed-verkoop.html
+      output: web, pdf
+      type: homepage
+
+  - title: Email
+    output: web, pfd
+    folderitems:
+
+    - title: Email validatie
+      url: /email-validatie.html
       output: web, pdf
       type: homepage
 
