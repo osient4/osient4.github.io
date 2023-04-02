@@ -18,3 +18,10 @@
   target: _blank
   type: website
   region: Nederland
+
+- title: Facebook Marketplace
+  description: Auto-advertenties via Facebook
+  url: https://www.facebook.com/marketplace/category/vehicles
+  target: _blank
+  type: website
+  region: Wereldwijd

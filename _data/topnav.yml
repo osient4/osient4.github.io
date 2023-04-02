@@ -3,7 +3,7 @@
 topnav:
 - title: Topnav
   items:
+    - title: Informatie
+      url: /informatie.html
     - title: GitHub
       external_url: https://github.com/osient4
-
-# Copyright 2023 Osient4
