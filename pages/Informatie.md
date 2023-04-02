@@ -15,11 +15,18 @@ datatable: false
  
 [Tijdelijk telefoonnummer (alle landen)](https://quackr.io/)
 
+## Fraude leren herkennen
+
+[Vastgoed, Dukers-Baelemans](https://www.dukers-baelemans.nl/nieuws/vastgoedcriminaliteit-lijkt-overal-te-zijn-hoe-herken-je-het/)
+
 ## OSINT Methodiek
 
 Goed advies over het systematisch en efficiënt aanpakken van OSINT onderzoek.
 
 [NTrepid - OSINT Cyclus](https://ntrepidcorp.com/case-studies/breaking-down-the-osint-cycle/)
+[SVDJ - Basis starttips] (https://www.svdj.nl/nieuws/tips-journalistiek-onderzoek/)
+
+[Internetsporen vastleggen](https://internetsporen.nl/)
 
 ## OSINT Subjecten
 
