@@ -24,7 +24,8 @@ datatable: false
 Goed advies over het systematisch en efficiënt aanpakken van OSINT onderzoek.
 
 [NTrepid - OSINT Cyclus](https://ntrepidcorp.com/case-studies/breaking-down-the-osint-cycle/)
-[SVDJ - Basis starttips] (https://www.svdj.nl/nieuws/tips-journalistiek-onderzoek/)
+[SVDJ - Basistips voor journalisten] (https://www.svdj.nl/nieuws/tips-journalistiek-onderzoek/)
+[Blackhat - Pentesting met Google](https://www.blackhat.com/presentations/bh-europe-05/BH_EU_05-Long.pdf)
 
 [Internetsporen vastleggen](https://internetsporen.nl/)
 

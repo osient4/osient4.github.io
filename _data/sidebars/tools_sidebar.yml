@@ -5,6 +5,15 @@ entries:
   product: OSINT Tools
   folders:
 
+  - title: Zoekmachines
+    output: web, pdf
+    folderitems:
+
+    - title: Zoekmachines
+    url: /zoekmachines.html
+    output: web, pfd
+    type: homepage
+
   - title: Bedrijf
     output: web, pdf
     folderitems:
