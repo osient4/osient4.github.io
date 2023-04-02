@@ -6,11 +6,11 @@
   region: Wereld
 
 - title: IDCrawl
-  description: Personen zoeken
+  description: Lijkt op Pipl. Zoekt naar socmed accounts, personen en email.
   url: https://www.idcrawl.com/
   target: _blank
   type: website
-  region: Wereld
+  region: VS/Wereld
 
 - title: Millionshort
   description: Voorbij het voor de hand liggende resultaat.
