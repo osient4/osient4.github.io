@@ -45,6 +45,8 @@ Bronnen met mogelijke onderzoekssubjecten. Dit kunnen personen zijn of bedrijven
 
 [Openbaar Ministerie - Fraude](https://www.om.nl/onderwerpen/fraude)
 
+[Openbaar Ministerie - Nieuws](https://www.om.nl/actueel)
+
 [FIOD - Nieuws](https://www.fiod.nl/nieuws/)
 
 [Financial Intelligence Unit NL - Nieuws](https://www.fiu-nederland.nl/nl/news)
