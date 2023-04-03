@@ -35,7 +35,7 @@
 
 - title: Companyweb
   description: Verrijkte bedrijfsgegevens uit KBO, Belgische Staatsblad en de Nationale Bank.
-  url: companyweb.be
+  url: https://companyweb.be
   target: _blank
   type: website
   region: België
