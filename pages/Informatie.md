@@ -9,7 +9,8 @@ datatable: false
 
 ## Documentopmaak
  
-[Markdown Guide](https://www.markdownguide.org)
+Markdown Guide
+https://www.markdownguide.org
 
 ## Fake credentials
  
