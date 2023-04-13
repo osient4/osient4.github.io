@@ -5,6 +5,13 @@
   type: website
   region: Nederland
 
+- title: Dato Capital
+  description: Eigenaar volledige naam, algemeen.
+  url: https://www.datocapital.nl/
+  target: _blank
+  type: website
+  region: Wereld
+
 - title: Drimble
   description: Verrijkte open informatie over alle bedrijven in Nederland
   url: https://drimble.nl/zakelijk/
@@ -106,13 +113,6 @@
 - title: Infobel
   description: Een database met contactgegevens van bedrijven (en personen) wereldwijd. Per land op te zoeken.
   url: https://www.infobel.com/nl/world
-  target: _blank
-  type: website
-  region: Wereld
-
-- title: Dato Capital
-  description: Zoeken op persoon, algemeen.
-  url: https://www.datocapital.nl/
   target: _blank
   type: website
   region: Wereld
