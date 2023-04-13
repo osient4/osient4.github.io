@@ -55,7 +55,7 @@
   region: België
 
 - title: FinCheck
-  description: Uitgebreide bedrijfsgegevens met grafisch weergegeven bedrijvennetwerk.
+  description: Netwerk van bedrijven in schema.
   url: https://fincheck.be
   target: _blank
   type: website
@@ -83,7 +83,7 @@
   region: Duitsland
 
   title: CompanyHouse
-  description: Goed doorzoekbare en uitgebreide database met bedrijven in Duitsland. Gebruik het zoekveld rechtsboven in de site.
+  description: Gebruik het zoekveld rechtsboven in de site.
   url: https://www.companyhouse.de/
   target: _blank
   type: website
@@ -111,17 +111,15 @@
   region: Wereld
 
 - title: Dato Capital
-  description: Database met gegevens over bedrijven en bestuurders. Doorzoekbaar op bedrijfs- en persoonsnaam.
+  description: Zoeken op persoon, algemeen.
   url: https://www.datocapital.nl/
   target: _blank
   type: website
   region: Wereld
+
 - title: North Data 
-  description: Verrijkte bedrijfsgegevens inclusief financiële inzichten.
+  description: FInancieel inzicht, algemeen.
   url: https://northdata.com
   target: _blank
   type: website
   region: Wereld
-
-- title: Online Handelsregister
-  description: Laat meteen de wijzigingen in bedrijfsnaam zien in de zoekresultaten. Uitgebreide informatie, grafisch minder sterk.

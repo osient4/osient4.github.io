@@ -4,3 +4,10 @@
   target: _blank
   type: website
   region: Wereld
+
+- title: Epieos
+  description: Zoeken adhv van email of telefoonnummer
+  url: https://epieos.com/
+  target: _blank
+  type: website
+  region: Wereld
