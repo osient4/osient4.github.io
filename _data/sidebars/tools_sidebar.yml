@@ -89,12 +89,17 @@ entries:
       output: web, pdf
       type: homepage
 
-  - title: Email
+  - title: Mensen
     output: web, pfd
     folderitems:
 
     - title: Email validatie
       url: /email-validatie.html
+      output: web, pdf
+      type: homepage
+
+    - title: Locate Family
+      url: /mensen.html
       output: web, pdf
       type: homepage
 
