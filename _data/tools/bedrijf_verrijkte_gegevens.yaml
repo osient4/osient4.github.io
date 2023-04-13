@@ -1,3 +1,10 @@
+- title: Company Info
+  description: Eigenaar, algemeen.
+  url: https://companyinfo.nl
+  target: _blank
+  type: website
+  region: Nederland
+
 - title: Drimble
   description: Verrijkte open informatie over alle bedrijven in Nederland
   url: https://drimble.nl/zakelijk/
@@ -6,8 +13,15 @@
   region: Nederland
 
 - title: Bedrijvenmonitor
-  description: Een database met verzamelde en verrijkte informatie over ondernemingen in Nederland.
+  description: Mutaties (namen soms), algemeen. 
   url: https://bedrijvenmonitor.info/
+  target: _blank
+  type: website
+  region: Nederland
+
+- title: Transfirm  
+  description: Laat ook andere registratie op hetzelfde adres zien.
+  url: https://transfirm.nl
   target: _blank
   type: website
   region: Nederland
