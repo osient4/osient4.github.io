@@ -121,3 +121,12 @@ entries:
       url: /website-technologie.html
       output: web, pdf
       type: homepage
+
+  - title: Social
+    output: web, pdf
+    folderitems:
+
+    - title: Facebook
+      url: /social-facebook.html
+      output: web, pdf
+      type: homepage

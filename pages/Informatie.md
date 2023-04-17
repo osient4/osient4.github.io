@@ -17,6 +17,15 @@ Markdown Guide:
 Tijdelijk telefoonnummer (alle landen): 
 - https://quackr.io/
 
+
+Profiel informatie
+- https://www.fakenamegenerator.com (met werkend tijdelijk email)
+- https://meragor.com/en/profile-generator (met goede profielfoto)
+
+
+Wachtwoordgenerator
+-https://bitwarden.com/password-generator
+
 ## Fraude leren herkennen/onderzoeken
 
 Vastgoed, Dukers-Baelemans: 
