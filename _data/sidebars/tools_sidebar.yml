@@ -5,12 +5,30 @@ entries:
   product: OSINT Tools
   folders:
 
+  - title: Automatisch monitoren
+    output: web, pdf
+    folderitems:
+
+    - title: Alerts via e-mail
+      url: /alerts.html
+      output: web, pfd
+      type: homepage
+
   - title: Zoekmachines
     output: web, pdf
     folderitems:
 
     - title: Zoekmachines
       url: /zoekmachines.html
+      output: web, pfd
+      type: homepage
+
+  - title: Afbeeldingen
+    output: web, pdf
+    folderitems:
+
+    - title: Vergelijkbare afbeeldingen zoeken
+      url: /afbeeldingen-reverse.html
       output: web, pfd
       type: homepage
 
@@ -112,6 +130,11 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Website Archieven
+      url: /website-archieven.html
+      output: web, pdf
+      type: homepage
+
     - title: Indirect bezoeken
       url: /website-indirect-bezoeken.html
       output: web, pdf
@@ -126,7 +149,16 @@ entries:
     output: web, pdf
     folderitems:
 
-    - title: Facebook
-      url: /social-facebook.html
+    - title: ID's en gebruikersnamen
+      url: /social-nameid.html
+      output: web, pdf
+      type: homepage
+
+  - title: Geo
+    output: web, pdf
+    folderitems:
+
+    - title: Maps en routes
+      url: /geo.html
       output: web, pdf
       type: homepage

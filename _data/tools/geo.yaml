@@ -1,0 +1,41 @@
+- title: Google Maps
+  description: Maps en streetview.
+  url: https://www.google.nl/maps
+  target: _blank
+  type: website
+  region: Internationaal
+
+- title: Google Earth
+  description: Maps voor ontdekkers (webversie)
+  url: https://google.nl/earth
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Bing Maps
+  description: Route en navigatie
+  url: https://bing.com/maps
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: We Go Here
+  description: Route en navigatie
+  url: https://wego.here.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Mapillary
+  description: Uploads vanuit action of dashcams
+  url: https://mapillary.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Open Street Map
+  description: Kadastrale Data
+  url: https://openstreetmap.org
+  target: _blank
+  type: website
+  region: Wereld

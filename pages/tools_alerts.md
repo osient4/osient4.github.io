@@ -1,9 +1,9 @@
 ---
-title: "Social - Facebook"
-keywords: social media, facebook
-tags: [social media]
+title: "Automatisch monitoren"
+keywords: alerts
+tags: [monitoren]
 sidebar: tools_sidebar
-permalink: social-facebook.html
+permalink: alerts.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.social.facebook %}
+{% for item in site.data.tools.alerts %}
 	<tr>
 		<td>
 			{{ item.type }}

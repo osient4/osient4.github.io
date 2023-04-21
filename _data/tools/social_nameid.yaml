@@ -1,0 +1,34 @@
+- title: Lookup-ID.com
+  description: Haal de ID op van een FB profiel, group of pagina.
+  url: https://lookup-id.com
+  target: _blank
+  type: website
+  region: Internationaal
+
+- title: IDCrawl
+  description: Lijkt op Pipl. Zoekt naar socmed accounts, personen en email.
+  url: https://www.idcrawl.com/
+  target: _blank
+  type: website
+  region: VS/Wereld
+
+- title: Whatsmyname
+  description: Gebruikersnamen zoeken.
+  url: https://www.whatsmyname.app/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Knowem
+  description: Gebruikersnamen zoeken.
+  url: https://www.knowem.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Namechk.com
+  description: Gebruikersnamen zoeken.
+  url: https://www.namechk.com/
+  target: _blank
+  type: website
+  region: Wereld

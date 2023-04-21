@@ -1,6 +1,41 @@
 - title: Built With
-  description: Geeft de technieken weer waarmee een website gebouwd is. 
+  description: Ontdek gerelateerde registraties en serverinfo. 
   url: https://builtwith.com
   target: _blank
   type: website
   region: Wereld
+
+- title: Ripe
+  description: Achterhalen van IP-adres registraties. 
+  url: https://ripe.nl
+  target: _blank
+  type: website
+  region: Europa
+
+- title: SIDN
+  description: .nl Domeinregistraties.
+  url: https://ripe.nl
+  target: _blank
+  type: website
+  region: Nederland
+
+- title: EurID
+  description: .eu Domeinregistraties.
+  url: https://eurid.eu
+  target: _blank
+  type: website
+  region: Europa
+
+- title: Domain Big Data
+  description: Domeinnamenonderzoek.
+  url: https://domainbigdata.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Whois Domain Tools
+  description: Domeinnamenonderzoek.
+  url: https://eurid.eu
+  target: _blank
+  type: website
+  region: Europa

@@ -5,15 +5,57 @@
   type: website
   region: Wereld
 
-- title: IDCrawl
-  description: Lijkt op Pipl. Zoekt naar socmed accounts, personen en email.
-  url: https://www.idcrawl.com/
-  target: _blank
-  type: website
-  region: VS/Wereld
-
 - title: Millionshort
   description: Voorbij het voor de hand liggende resultaat.
   url: https://millionshort.com/
   type: website
   region: Wereld
+
+- title: Google NL
+  description: Google zoekmachine zwaartepunt Nederland
+  url: https://www.google.nl/
+  target: _blank
+  type: website
+  region: Nederland / Locatieafhankelijk
+
+- title: Google Internationaal
+  description: Google zoekmachine internationaal
+  url: https://www.google.com/ncr
+  target: _blank
+  type: website
+  region: Internationaal
+
+- title: Bing
+  description: Bing van Microsoft
+  url: https://www.bing.com
+  target: _blank
+  type: website
+  region: Wereld / locatieafhankelijk
+
+- title: DuckDuckGo
+  description: Non-tracking zoekmachine
+  url: https://www.duckduckgo.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: eTools.ch
+  description: Transparantie metasearch uit Zwitserland
+  url: https://www.etools.ch
+  target: _blank
+  type: website
+  region: Internationaal
+
+- title: dogpile.com
+  description: Transparantie metasearch uit Zwitserland
+  url: https://www.etools.ch
+  target: _blank
+  type: website
+  region: Internationaal
+
+- title: metacrawler.com
+  description: Metasearch zoekmachine
+  url: https://www.metacrawler.com
+  target: _blank
+  type: website
+  region: Internationaal

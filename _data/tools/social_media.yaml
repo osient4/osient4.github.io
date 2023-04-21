@@ -1,0 +1,41 @@
+- title: Facebook
+  description: Website van Facebook.
+  url: https://facebook.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Instagram
+  description: Website van Instagram.
+  url: https://www.instagram.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: LinkedIn
+  description: Website van LinkedIn.
+  url: https://www.linkedin.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Twitter
+  description: Website van Twitter.
+  url: https://www.twitter.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Tweetdeck
+  description: Twitter posts (tweets) volgen.
+  url: https://www.tweetdeck.twitter.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: VKontakte
+  description: Russische variant van Facebook.
+  url: https://www.vkontakte.com/
+  target: _blank
+  type: website
+  region: Rusland/Wereld

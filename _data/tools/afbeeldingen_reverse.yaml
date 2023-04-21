@@ -1,0 +1,20 @@
+- title: Yandex reverse image search
+  description: Gezichten, gebouwen, locaties, logo's, formaten, aanpasbaarheid.
+  url: https://yandex.com/images
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Bing reverse image search
+  description: Gezichten, gebouwen, locaties, logo's, formaten, aanpasbaarheid.
+  url: https://images.bing.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Google reverse image search
+  description: Geebouwen, locaties, logo's, formaten.
+  url: https://images.google.nl
+  target: _blank
+  type: website
+  region: Wereld

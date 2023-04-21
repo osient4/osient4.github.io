@@ -1,0 +1,20 @@
+- title: Way Back Machine
+  description: Websitearchief van archive.org.
+  url: https://archive.org/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Archiefweb
+  description: Archiefdienst (semi-)overheden.
+  url: https://archiefweb.eu/
+  target: _blank
+  type: website
+  region: Nederland
+
+- title: Google Cache
+  description: Cache pagina's in Google zoekmachine. (Via de 3 verticale punten achter de url link)
+  url: https://google.nl/
+  target: _blank
+  type: website
+  region: Wereld
