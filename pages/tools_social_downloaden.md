@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.social.downloaden %}
+{% for item in site.data.social_downloaden %}
 	<tr>
 		<td>
 			{{ item.type }}
