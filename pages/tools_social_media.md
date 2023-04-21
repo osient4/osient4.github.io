@@ -1,9 +1,9 @@
 ---
-title: "Social - Downloaden"
+title: "Social - Media"
 keywords: social media, gebruikersnamen, id
 tags: [social media]
 sidebar: tools_sidebar
-permalink: social-downloaden.html
+permalink: social-media.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.social.downloaden %}
+{% for item in site.data.social.media %}
 	<tr>
 		<td>
 			{{ item.type }}

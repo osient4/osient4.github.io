@@ -154,6 +154,16 @@ entries:
     output: web, pdf
     folderitems:
 
+    - title: Social Media
+      url: /social-media.html
+      output: web, pdf
+      type: homepage
+
+    - title: Social Media Downloaden
+      url: /social-downloaden.html
+      output: web, pdf
+      type: homepage
+
     - title: ID's en gebruikersnamen
       url: /social-nameid.html
       output: web, pdf
