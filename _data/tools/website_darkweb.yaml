@@ -1,0 +1,6 @@
+- title: Tor Project Exonerator
+  description: Check of een Tor-server op een IP-adres draait.
+  url: https://metrics.torproject.org/exonerator.html
+  target: _blank
+  type: website
+  region: Wereld

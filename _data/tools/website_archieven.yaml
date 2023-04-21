@@ -13,7 +13,7 @@
   region: Nederland
 
 - title: Google Cache
-  description: Cache pagina's in Google zoekmachine. (Via de 3 verticale punten achter de url link)
+  description: Cache pagina's in Google zoekmachine. Operator [cache:]
   url: https://google.nl/
   target: _blank
   type: website

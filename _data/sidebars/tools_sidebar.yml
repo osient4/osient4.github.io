@@ -145,6 +145,11 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Darkweb
+      url: /website-darkweb.html
+      output: web, pdf
+      type: homepage
+
   - title: Social
     output: web, pdf
     folderitems:
@@ -154,11 +159,21 @@ entries:
       output: web, pdf
       type: homepage
 
+    - title: Tools
+      url: /social-tools.html
+      output: web, pdf
+      type: homepage
+
   - title: Geo
     output: web, pdf
     folderitems:
 
     - title: Maps en routes
-      url: /geo.html
+      url: /geo_maps.html
+      output: web, pdf
+      type: homepage
+
+    - title: Social maps
+      url: /geo_social.html
       output: web, pdf
       type: homepage

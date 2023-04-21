@@ -26,9 +26,23 @@
   type: website
   region: Wereld
 
-- title: Tweetdeck
-  description: Twitter posts (tweets) volgen.
-  url: https://www.tweetdeck.twitter.com/
+- title: YouTube
+  description: Website van YoutTube.
+  url: https://www.youtube.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Xing
+  description: Duitse LinkedIn.
+  url: https://www.xing.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: SnapChat
+  description: Website van SnapChat.
+  url: https://www.snapchat.com/
   target: _blank
   type: website
   region: Wereld

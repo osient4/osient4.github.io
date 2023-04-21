@@ -3,7 +3,7 @@ title: "Geo Tools"
 keywords: geo
 tags: [geo]
 sidebar: tools_sidebar
-permalink: geo.html
+permalink: geo_social.html
 datatable: true
 ---
 
@@ -16,7 +16,7 @@ datatable: true
 			<th>Beschrijving</th>
 		</tr>
 	</thead>
-{% for item in site.data.tools.geo %}
+{% for item in site.data.tools.geo_social %}
 	<tr>
 		<td>
 			{{ item.type }}

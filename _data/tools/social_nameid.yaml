@@ -1,5 +1,5 @@
 - title: Lookup-ID.com
-  description: Haal de ID op van een FB profiel, group of pagina.
+  description: (!afbreukrisico) Haal de ID op van een FB profiel, group of pagina. Kan ook via broncode: userID.
   url: https://lookup-id.com
   target: _blank
   type: website
@@ -28,6 +28,34 @@
 
 - title: Namechk.com
   description: Gebruikersnamen zoeken.
+  url: https://www.namechk.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: SyncMe
+  description: Info zoeken bij telefoonnummer.
+  url: https://www.sync.me
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: TrueCaller
+  description: Info zoeken bij telefoonnummer.
+  url: https://www.truecaller.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: IntelligenceX
+  description: Info zoeken bij telefoonnummer.
+  url: https://www.intelx.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: HaveIBeenPowned
+  description: Info zoeken bij emailadres.
   url: https://www.namechk.com/
   target: _blank
   type: website

@@ -1,0 +1,27 @@
+- title: Google Translate
+  description: Vertaalmachine van Google.
+  url: https://translate.google.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Bing Translator
+  description: Vertaalmachine van Bing.
+  url: https://bing.com/translator
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Deepl Translator
+  description: Vertaalmachine van Deepl.
+  url: https://deeple.com/translator
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Linguee
+  description: Vertaalmachine van en naar Engels.
+  url: https://linguee.com
+  target: _blank
+  type: website
+  region: Wereld

@@ -7,10 +7,22 @@ permalink: informatie.html
 datatable: false
 ---
 
+Via diensten als Leadinfo kan jouw Ip-adres bij websitebezoek mogelijk gekoppeld worden aan de organisatie van waaruit je de site bezoekt of bijvoorbeeld aan je LinkedIn-profiel. Voorkom afbreukrisico tijdens onderzoek en bescherm je IP-adres!
+
 ## Documentopmaak
  
 Markdown Guide: 
 - https://www.markdownguide.org
+
+## Check eigen IP-adres
+ 
+- https://whatismyip.com/#ip-address-information/
+- https://watismijnip.nl
+- https://nordvpn.com/nl/what-is-my-ip/
+
+## Check eigen fingerprint
+
+- https://panopticlick.eff.org
 
 ## Fake credentials
  
@@ -41,6 +53,9 @@ Lees het boek over OSINT van Michael Bazzell.
 ## OSINT Methodiek
 
 Goed advies over het systematisch en efficiënt aanpakken van OSINT onderzoek.
+
+OSINT Framework:
+- https://osintframework.com
 
 NTrepid - OSINT Cyclus: 
 - https://ntrepidcorp.com/case-studies/breaking-down-the-osint-cycle/

@@ -5,6 +5,20 @@
   type: website
   region: Wereld
 
+- title: 2lingual
+  description: Zoek met Google in twee talen tegelijk.
+  url: https://2lingual.com
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Qwant
+  description: Privacy zoekmachine (non-tracking).
+  url: https://qwant.com/
+  target: _blank
+  type: website
+  region: Wereld
+
 - title: Millionshort
   description: Voorbij het voor de hand liggende resultaat.
   url: https://millionshort.com/

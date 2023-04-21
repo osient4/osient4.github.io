@@ -4,3 +4,10 @@
   target: _blank
   type: website
   region: Wereld
+
+- title: Mobile Friendly Test & Best Online HTML Viewer
+  description: HTML ophalen via testapp, daarna gekopieerde HTML leesbaar tonen (zie codebeautyfy.org/htmlviewer).
+  url: https://search.google.com/test/mobile-friendly/
+  target: _blank
+  type: website
+  region: Wereld

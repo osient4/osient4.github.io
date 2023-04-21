@@ -1,0 +1,13 @@
+- title: SnapMap
+  description: Publiekelijk gedeelde snapchats op een kaart.
+  url: https://map.snapchat.com
+  target: _blank
+  type: website
+  region: Internationaal
+
+- title: Twitter Map
+  description: Tweets op een kaart.
+  url: https://onemilliontweetmap.com
+  target: _blank
+  type: website
+  region: Wereld

@@ -1,0 +1,27 @@
+- title: Tweetdeck
+  description: Twitter posts (tweets) volgen.
+  url: https://www.tweetdeck.twitter.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Gramhir
+  description: Instagram analyse en viewer.
+  url: https://gramhir.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Picuki
+  description: Anoniem Instagram bekijken.
+  url: https://www.picuki.com/
+  target: _blank
+  type: website
+  region: Wereld
+
+- title: Tweepdiff
+  description: Volgers van Twittergebruikers onderling vergelijken.
+  url: https://www.tweepdiff.com/
+  target: _blank
+  type: website
+  region: Wereld
