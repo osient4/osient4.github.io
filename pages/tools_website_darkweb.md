@@ -3,7 +3,7 @@ title: "Website - Darkweb"
 keywords: darkweb
 tags: [darkweb]
 sidebar: tools_sidebar
-permalink: website_darkweb.html
+permalink: website-darkweb.html
 datatable: true
 ---
 
