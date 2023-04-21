@@ -1,5 +1,5 @@
 - title: Lookup-ID.com
-  description: (!afbreukrisico) Haal de ID op van een FB profiel, group of pagina. Kan ook via broncode: userID.
+  description: Haal de ID op van een FB profiel, group of pagina. Kan ook via broncode.
   url: https://lookup-id.com
   target: _blank
   type: website
@@ -56,7 +56,7 @@
 
 - title: HaveIBeenPowned
   description: Info zoeken bij emailadres.
-  url: https://www.namechk.com/
+  url: https://www.haveibeennpwned.com/
   target: _blank
   type: website
   region: Wereld
